@@ -13,7 +13,7 @@ Also they can come in different shapes and sizes and over the years (well it fee
 
 <h1>Here are some pictures of bots in development</h1>
 
-![image alt](https://github.com/Monkeycpu/Monkeycpu.github.io/blob/main/DB2B55F5-0DAE-48C0-B9E2-174812ADD591(1).jpeg?raw=true)
+![image alt](https://github.com/Monkeycpu/Monkeycpu.github.io/blob/main/DB2B55F5-0DAE-48C0-B9E2-174812ADD591(1).jpeg)
 
 
 <style>
